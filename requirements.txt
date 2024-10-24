@@ -1,0 +1,6 @@
+vUtils @ git+https://github.com/gaobiaoli/vUtils.git
+matplotlib==3.7.2
+mmengine==0.8.4
+mmsegmentation.egg==info
+torch==1.13.0
+
